@@ -1,6 +1,7 @@
 # heritage
 # Challenge
-Une classification génétique
+Une classification génétique;
+
 Concevoir un programme classifiant certaines espèces :
 
 Une classe abstraite Animal (mammifère)
